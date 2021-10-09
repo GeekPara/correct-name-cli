@@ -1,0 +1,16 @@
+{
+  "name": "correct-name-cli",
+  "version": "1.0.0",
+  "description": "“好好打名字！”项目的命令行交互版本。The command line version of The Correct Name Porject.",
+  "main": "index.js",
+  "repository": "https://github.com/HZGeek/correct-name-cli",
+  "author": "JupiterJun",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "correct-name-core": "^1.0.0",
+    "iconv-lite": "^0.6.3",
+    "inquirer": "^8.2,.0"
+  },
+  "type": "module"
+}
